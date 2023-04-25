@@ -1,0 +1,12 @@
+DB_USER= postgres
+DB_PASSWORD= admin
+DB_HOST= localhost:5432
+DB_NAME= adoptame
+PORT=3000
+URL= postgres://admin:c8jsGAFW5G7xeGQpB3XpLbjYioxXxgYa@dpg-cgc6jat269v4icuoa9t0-a.oregon-postgres.render.com/adoptame?ssl=true
+CLIENTID=LlZqPSlYh9fnCieI2VhOdKhG6IxReUR1
+DOMINIO=dev-l1ijdiq721iqrm83.us.auth0.com
+SECRET=zVFn630P-XEzWlAMOCZDN7_mJKdSomsNNSHHl_U1GUiG5NAaYQH5SYCmpvbN5WKG
+
+
+ //"clientId": "nbyOhVWt3GDmPXZqqMkVcwUkBMrhSavj",
